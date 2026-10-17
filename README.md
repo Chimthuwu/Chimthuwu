@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://soundcloud.com/memoske"><img src="https://img.shields.io/badge/Music-SoundCloud-FF5500?logo=soundcloud&logoColor=white" alt="SoundCloud"/></a>
   <a href="https://sounds-sensible.pages.dev/"><img src="https://img.shields.io/badge/Live-SensiblSound-8A2BE2" alt="SensiblSound live"/></a>
-  <a href="https://railscope.pages.dev"><img src="https://img.shields.io/badge/Live-Railscope-0EA5E9" alt="Railscope live"/></a>
+  <a href="https://railscope.pages.dev"><img src="https://img.shields.io/badge/Live-RailScope-0EA5E9" alt="RailScope live"/></a>
 </p>
 
 ---
@@ -17,28 +17,32 @@
 
 | Project | What it is |
 |---|---|
-| [**PsydeNote**](https://github.com/Chimthuwu/psydenote) | FM/PM software synth with a layered arpeggiator. *(test build)* |
-| [**SensiblSound**](https://github.com/Chimthuwu/sensible-sound) · [live](https://sounds-sensible.pages.dev/) | Browser vocal-recording DAW: two-track timeline, per-track volume, device chains, a four-band parametric EQ, takes and layers. Web Audio API, React, Vite. |
-| [**vst3-to-clap**](https://github.com/Chimthuwu/vst3-to-clap) | Hosts VST3 plug-ins inside CLAP, and turns any `.vst3` into a dedicated `.clap`. |
-| [**bitwig-midiplus-smartpad**](https://github.com/Chimthuwu/bitwig-midiplus-smartpad) | Bitwig controller script that turns the MIDIPLUS Smartpad into an 8×8 clip launcher with LED feedback. |
+| [**PsydeNote**](https://github.com/Chimthuwu/PsydeNote) | FM/PM software synth with a layered arpeggiator. *(test build)* |
+| [**SensiblSound**](https://github.com/Chimthuwu/SensiblSound) · [live](https://sounds-sensible.pages.dev/) | Browser vocal-recording DAW: multi-track timeline, per-track volume, pan and devices, a four-band parametric EQ, takes and layers. Web Audio API, React, Vite. |
+| [**VST3-to-CLAP**](https://github.com/Chimthuwu/VST3-to-CLAP) | Hosts VST3 plug-ins inside CLAP, and turns any `.vst3` into a dedicated `.clap`. |
+| [**Bitwig-MIDIplus-Smartpad**](https://github.com/Chimthuwu/Bitwig-MIDIplus-Smartpad) | Bitwig controller script that turns the MIDIPLUS Smartpad into an 8×8 clip launcher with LED feedback. |
 
-## 🎮 Games & web
+## 🕹️ Arcade
+
+| Game | What it is |
+|---|---|
+| [**Glitch Invaders**](https://github.com/Chimthuwu/Glitch-Invaders) · [play](https://glitch-invaders.chimske.workers.dev) | Glitchy synthwave arcade shooter: boss fights, elite enemies, power-ups, endless swarms. React, Three.js, TypeScript. |
+| [**UwU Invaders**](https://github.com/Chimthuwu/UwU-Invaders) · [play](https://uwu-invaders-uwu.pages.dev/) | Browser space shooter in the spirit of Space Invaders, with chaotic UwU energy. |
+| [**Pac-Neon**](https://github.com/Chimthuwu/Pac-Neon) | True-3D synthwave Pac-Man in WebGL, with bloom and five ghost personalities. |
+| [**Cyber Chess**](https://github.com/Chimthuwu/Cyber-Chess) · [play](https://cyber-chess.pages.dev/) | Classic chess in a neon cyberpunk setting, playable in the browser. |
+| [**Snake**](https://github.com/Chimthuwu/Snake) · [play](https://snaaake.pages.dev/) | Classic snake in the browser. Goes fullscreen when you play. |
+
+Games go fullscreen on the first tap or key press. Press **F** or the corner button to toggle.
+
+## 🌐 Web & tools
 
 | Project | What it is |
 |---|---|
-| [**Glitch Invaders**](https://github.com/Chimthuwu/glitch-invaders) · [play](https://glitch-invaders.chimske.workers.dev) | Glitchy synthwave arcade shooter: boss fights, elite enemies, power-ups, endless swarms. React, Three.js, TypeScript. |
-| [**Pac-Neon**](https://github.com/Chimthuwu/pac-neon) | True-3D synthwave Pac-Man in WebGL, with bloom and five ghost personalities. |
-| [**Cyber Chess**](https://github.com/Chimthuwu/cyber-chess) · [play](https://cyber-chess.pages.dev/) | Classic chess in a neon cyberpunk setting, playable in the browser. |
-| [**Railscope**](https://github.com/Chimthuwu/Railscope) · [live](https://railscope.pages.dev) | Fast, free, ad-free live transport tracker for Sydney and NSW: departures, stop-by-stop tracking, live vehicle map. React, TypeScript, MapLibre, Cloudflare. |
-
-## 🛠️ Tools & bots
-
-| Project | What it is |
-|---|---|
-| [**free-fallback-kit**](https://github.com/Chimthuwu/free-fallback-kit) | Method and tooling for LLM fallback chains that survive free-tier quota walls. Python, no dependencies. |
-| [**Sprite Cutter**](https://github.com/Chimthuwu/sprite-cutter) · [use](https://spritecut.pages.dev/) | Simple, fast sprite-sheet cutter and GIF animator that runs in the browser. |
-| [**Hydration Reminder**](https://github.com/Chimthuwu/hydration-reminder) | Desktop hydration reminder with a live countdown, smart alerts and custom settings. |
-| [**DIKORD Themes**](https://github.com/Chimthuwu/DIKORD-THEMES) | Ten Discord themes with spinning avatars and gradient names (Vencord / Equicord). |
+| [**RailScope**](https://github.com/Chimthuwu/RailScope) · [live](https://railscope.pages.dev) | Fast, free, ad-free live transport tracker for Sydney and NSW: departures, stop-by-stop tracking, live vehicle map. React, TypeScript, MapLibre, Cloudflare. |
+| [**Sprite Cutter**](https://github.com/Chimthuwu/Sprite-Cutter) · [use](https://spritecut.pages.dev/) | Simple, fast sprite-sheet cutter and GIF animator that runs in the browser. |
+| [**Free-Fallback-Kit**](https://github.com/Chimthuwu/Free-Fallback-Kit) | Method and tooling for LLM fallback chains that survive free-tier quota walls. Python, no dependencies. |
+| [**Hydration Reminder**](https://github.com/Chimthuwu/Hydration-Reminder) | Desktop hydration reminder with a live countdown, smart alerts and custom settings. |
+| [**DIKORD Themes**](https://github.com/Chimthuwu/DIKORD-Themes) | Ten Discord themes with spinning avatars and gradient names (Vencord / Equicord). |
 
 ## ⚙️ Stack
 
