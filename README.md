@@ -1,15 +1,24 @@
-<h1 align="center">Hi, I'm Chimthulu 👋</h1>
+<h1 align="center">Chimthulu</h1>
 
 <p align="center">
-  <b>Audio tools · browser games · Discord bots</b><br/>
-  I build software that makes sound, plays games and runs on free tiers.
+  <b>Audio software · 3D browser games · realtime multiplayer · bots and tools</b><br/>
+  I design and ship complete products: a synth plug-in, a vocal DAW, a live transport tracker and playable 3D games, all running for free on the web.
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open_to-freelance_%26_contract_work-2ea44f" alt="Open to freelance and contract work"/>
   <a href="https://soundcloud.com/memoske"><img src="https://img.shields.io/badge/Music-SoundCloud-FF5500?logo=soundcloud&logoColor=white" alt="SoundCloud"/></a>
-  <a href="https://sounds-sensible.pages.dev/"><img src="https://img.shields.io/badge/Live-SensiblSound-8A2BE2" alt="SensiblSound live"/></a>
-  <a href="https://railscope.pages.dev"><img src="https://img.shields.io/badge/Live-RailScope-0EA5E9" alt="RailScope live"/></a>
 </p>
+
+## ⭐ Featured, all live or downloadable
+
+| | Project | What it shows |
+|---|---|---|
+| 🎮 | [**SkyJump3D**](https://github.com/Chimthuwu/SkyJump3D) · [**play now**](https://skyjump3d.chimske.workers.dev) | Realtime 3D co-op shooter in Three.js with multiplayer rooms on Cloudflare Workers and Durable Objects. |
+| 🎙️ | [**SensiblSound**](https://github.com/Chimthuwu/SensiblSound) · [**live**](https://sounds-sensible.pages.dev/) | A DAW in the browser: multi-track timeline, live effects, parametric EQ. Web Audio, React. |
+| 🚆 | [**RailScope**](https://github.com/Chimthuwu/RailScope) · [**live**](https://railscope.pages.dev) | Live Sydney/NSW transport tracker with a vehicle map. React, MapLibre, Cloudflare. |
+| 🎹 | [**PsydeNote**](https://github.com/Chimthuwu/PsydeNote) | FM/PM synth plug-in (VST3 + standalone) with a layered arpeggiator. C++ (JUCE), Elementary Audio. |
+| 🔌 | [**VST3-to-CLAP**](https://github.com/Chimthuwu/VST3-to-CLAP) | Native C++ tool and browser converter that wraps VST3 plug-ins as CLAP, built by CI for Windows, macOS and Linux. |
 
 ---
 
@@ -62,7 +71,7 @@ I work with AI-assisted engineering a lot, and I like testing things for real be
 
 ## 💼 Open to freelance work
 
-Discord bots, small automation tools and browser apps. Fiverr and Upwork profiles are on the way.
+Discord bots, small automation tools and browser apps. Available for freelance and contract work: open an issue or message me through GitHub.
 
 ## 🎵 Music
 
