@@ -28,6 +28,7 @@
 |---|---|
 | [**Glitch Invaders**](https://github.com/Chimthuwu/Glitch-Invaders) · [play](https://glitch-invaders.chimske.workers.dev) | Glitchy synthwave arcade shooter: boss fights, elite enemies, power-ups, endless swarms. React, Three.js, TypeScript. |
 | [**UwU Invaders**](https://github.com/Chimthuwu/UwU-Invaders) · [play](https://uwu-invaders-uwu.pages.dev/) | Browser space shooter in the spirit of Space Invaders, with chaotic UwU energy. |
+| [**SkyJump3D**](https://github.com/Chimthuwu/SkyJump3D) · [play](https://skyjump3d.chimske.workers.dev) | First-person neon endless co-op platformer-shooter on a sky-city: fall, jump, build and fight. Three.js, Cloudflare Workers co-op rooms. |
 | [**Pac-Neon**](https://github.com/Chimthuwu/Pac-Neon) | True-3D synthwave Pac-Man in WebGL, with bloom and five ghost personalities. |
 | [**Cyber Chess**](https://github.com/Chimthuwu/Cyber-Chess) · [play](https://cyber-chess.pages.dev/) | Classic chess in a neon cyberpunk setting, playable in the browser. |
 | [**Snake**](https://github.com/Chimthuwu/Snake) · [play](https://snaaake.pages.dev/) | Classic snake in the browser. Goes fullscreen when you play. |
