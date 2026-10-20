@@ -27,6 +27,7 @@
 | Project | What it is |
 |---|---|
 | [**PsydeNote**](https://github.com/Chimthuwu/PsydeNote) | FM/PM software synth with a layered arpeggiator. *(test build)* |
+| [**PsydeClip**](https://github.com/Chimthuwu/PsydeClip) · [download](https://github.com/Chimthuwu/PsydeClip/releases/latest) | Rolling-sampler system audio recorder for Windows: always recording in memory, press Save to keep the last few minutes. Electron, React, WASAPI. |
 | [**SensiblSound**](https://github.com/Chimthuwu/SensiblSound) · [live](https://sounds-sensible.pages.dev/) | Browser vocal-recording DAW: multi-track timeline, per-track volume, pan and devices, a four-band parametric EQ, takes and layers. Web Audio API, React, Vite. |
 | [**VST3-to-CLAP**](https://github.com/Chimthuwu/VST3-to-CLAP) | Hosts VST3 plug-ins inside CLAP, and turns any `.vst3` into a dedicated `.clap`. |
 | [**Bitwig-MIDIplus-Smartpad**](https://github.com/Chimthuwu/Bitwig-MIDIplus-Smartpad) | Bitwig controller script that turns the MIDIPLUS Smartpad into an 8×8 clip launcher with LED feedback. |
