@@ -15,8 +15,8 @@
 | | Project | What it shows |
 |---|---|---|
 | 🎮 | [**SkyJump3D**](https://github.com/Chimthuwu/SkyJump3D) · [**play now**](https://skyjump3d.chimske.workers.dev) | Realtime 3D co-op shooter in Three.js with multiplayer rooms on Cloudflare Workers and Durable Objects. |
-| 🎛️ | [**PsydeFX**](https://psyde-fx.pages.dev/) · [**live**](https://psyde-fx.pages.dev/) | Making tracks on the side: a DAW in the browser with audio and MIDI on every track, a synth and drum machine, note FX, modulators, automation and a mixer. |
-    | [**PsydeClip**](https://github.com/Chimthuwu/PsydeClip) · [download](https://github.com/Chimthuwu/PsydeClip/releases/latest) | Rolling-sampler system audio recorder for Windows: always recording in memory, press Save to keep the last few minutes. 
+| 🎛️ | [**PsydeFX**](https://psyde-fx.pages.dev/) · [**live**](https://psyde-fx.pages.dev/) | A DAW in the browser with audio and MIDI on every track, a synth and drum machine, note FX, modulators, automation and a mixer. |
+| 🎚️ | [**PsydeClip**](https://github.com/Chimthuwu/PsydeClip) · [**download**](https://github.com/Chimthuwu/PsydeClip/releases/latest) | Rolling-sampler system audio recorder for Windows: always recording in memory, press Save to keep the last few minutes. Electron, React, WASAPI. |
 | 🎙️ | [**SensiblSound**](https://github.com/Chimthuwu/SensiblSound) · [**live**](https://sensiblsound.pages.dev/) | Sensible Soundlabs, made for Sensimilliea 💜. A DAW in the browser: multi-track timeline, live effects, parametric EQ. Web Audio, React. |
 | 🚆 | [**RailScope**](https://github.com/Chimthuwu/RailScope) · [**live**](https://railscope.pages.dev) | Live Sydney/NSW transport tracker with a vehicle map. React, MapLibre, Cloudflare. |
 | 🎹 | [**PsydeNote**](https://github.com/Chimthuwu/PsydeNote) | FM/PM synth plug-in (VST3 + standalone) with a layered arpeggiator. C++ (JUCE), Elementary Audio. |
@@ -28,8 +28,9 @@
 
 | Project | What it is |
 |---|---|
-| [**PsydeNote**](https://github.com/Chimthuwu/PsydeNote) | FM/PM software synth with a layered arpeggiator. *(test build)* |
-Electron, React, WASAPI. |
+| [**PsydeNote**](https://github.com/Chimthuwu/PsydeNote) | FM/PM synth plug-in (VST3 + standalone) with a layered arpeggiator. *(test build)* |
+| [**PsydeFX**](https://github.com/Chimthuwu/PsydeFX) · [live](https://psyde-fx.pages.dev/) | Browser DAW with audio and MIDI tracks, synth, drum machine, note FX, modulators, automation and mixer. |
+| [**PsydeClip**](https://github.com/Chimthuwu/PsydeClip) · [download](https://github.com/Chimthuwu/PsydeClip/releases/latest) | Rolling-sampler system audio recorder for Windows. Electron, React, WASAPI. |
 | [**SensiblSound**](https://github.com/Chimthuwu/SensiblSound) · [live](https://sensiblsound.pages.dev/) | Browser vocal-recording DAW: multi-track timeline, per-track volume, pan and devices, a four-band parametric EQ, takes and layers. Web Audio API, React, Vite. |
 | [**VST3-to-CLAP**](https://github.com/Chimthuwu/VST3-to-CLAP) | Hosts VST3 plug-ins inside CLAP, and turns any `.vst3` into a dedicated `.clap`. |
 | [**Bitwig-MIDIplus-Smartpad**](https://github.com/Chimthuwu/Bitwig-MIDIplus-Smartpad) | Bitwig controller script that turns the MIDIPLUS Smartpad into an 8×8 clip launcher with LED feedback. |
